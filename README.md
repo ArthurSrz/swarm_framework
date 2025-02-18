@@ -1,2 +1,2 @@
-# swarm_framework
+# Swarm framework
 A multi-agent framework prototype
